@@ -4,7 +4,7 @@
     Private Sub NewMethod() Handles Button1.Click
 
         MessageBox.Show("Moin")
-        Hallo.Text = "Ja Klar"
+        Hallo.Text = "Ja Klarrrrr"
 
 
 
